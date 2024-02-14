@@ -27,7 +27,8 @@ Created a simple calendar application that allows a user to save events for each
 
 
 ## Installation
-Navigate to to start using this app.
+Navigate to to start using this app. 
+https://jaystarz360.github.io/Work-Day-Scheduler/
 
 ## Credits
 Google searches. 
